@@ -231,3 +231,4 @@
 /Users/chiragmalla/Projects/Ex_Files_Advanced_Web_APIs_ASP_dot_NET/Exercise Files/00_03b/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.pdb
 /Users/chiragmalla/Projects/Ex_Files_Advanced_Web_APIs_ASP_dot_NET/Exercise Files/00_03b/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.genruntimeconfig.cache
 /Users/chiragmalla/Projects/Ex_Files_Advanced_Web_APIs_ASP_dot_NET/Exercise Files/00_03b/HPlusSport.API/obj/Debug/net8.0/ref/HPlusSport.API.dll
+/Users/chiragmalla/Projects/Ex_Files_Advanced_Web_APIs_ASP_dot_NET/Exercise Files/00_03b/HPlusSport.API/obj/Debug/net8.0/HPlusSport.API.sourcelink.json
